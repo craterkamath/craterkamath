@@ -7,6 +7,7 @@
 - 🌱 I am currently learning more on Machine Learning and Linear Systems.
 - 🏆 2021 Goals: Contribute more to Open Source Projects.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/vinayakakamath21/)
+- 🎲 I trade `Indian Stock Markets` and `Crytpo Currencies`
 - 😄 Pronouns: He/Him
 
 [![GitHub](https://img.shields.io/badge/Github-00000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/craterkamath)
@@ -24,33 +25,14 @@
 
 ---
 
+<!--START_SECTION:stats-->
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=craterkamath&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craterkamath&layout=compact)]()
+
+
+
+
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    168 commits    ██████████░░░░░░░░░░░░░░░   41.58% 
-🌆 Daytime    153 commits    █████████░░░░░░░░░░░░░░░░   37.87% 
-🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
-🌙 Night      81 commits     █████░░░░░░░░░░░░░░░░░░░░   20.05%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: India/Bengaluru
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 29/08/2021
 <!--END_SECTION:waka-->
 
 
