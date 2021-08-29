@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="500px" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" />
+<img align="right" alt="GIF" height="400px" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" />
 
 ### I listen to Music everyday! 🎧
 
@@ -28,9 +28,6 @@
 <!--START_SECTION:stats-->
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=craterkamath&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craterkamath&layout=compact)]()
-
-
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
