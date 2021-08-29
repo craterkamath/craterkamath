@@ -26,7 +26,7 @@
 ---
 
 <!--START_SECTION:stats-->
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=craterkamath&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp;
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=craterkamath&show_icons=true&theme=radical)  &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craterkamath&layout=compact)]()
 
 <!--START_SECTION:waka-->
