@@ -29,6 +29,74 @@
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=craterkamath&show_icons=true&theme=radical)&nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craterkamath&layout=compact)]()
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 84 Contributions in the Year 2021
+ > 
+> 📦 64.9 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 49 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    47 commits     ██████████░░░░░░░░░░░░░░░   41.59% 
+🌆 Daytime    60 commits     █████████████░░░░░░░░░░░░   53.1% 
+🌃 Evening    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.81% 
+Tuesday      38 commits     ████████░░░░░░░░░░░░░░░░░   33.63% 
+Wednesday    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
+Thursday     19 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.81% 
+Friday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.73%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/craterkamath/craterkamath/main/charts/bar_graph.png) 
+
+
+ Last Updated on 29/08/2021
 <!--END_SECTION:waka-->
 
 
