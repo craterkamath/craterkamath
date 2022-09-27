@@ -28,13 +28,13 @@
 <!--START_SECTION:stats-->
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=craterkamath&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-429%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 180 Contributions in the Year 2022
+> 🏆 183 Contributions in the Year 2022
  > 
 > 📦 70.8 kB Used in GitHub's Storage 
  > 
@@ -44,6 +44,43 @@
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+🌆 Daytime    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
+🌃 Evening    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+🌙 Night      101 commits    █████████████████████░░░░   84.17%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Tuesday      18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Wednesday    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Thursday     14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
+Friday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
+Saturday     24 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Sunday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               6 hrs 2 mins        █████████████░░░░░░░░░░░░   54.18% 
+Vue.js                   3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.49% 
+HTML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -57,7 +94,7 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 26/09/2022 18:53:56 UTC
+ Last Updated on 27/09/2022 18:59:36 UTC
 <!--END_SECTION:waka-->
 
 
