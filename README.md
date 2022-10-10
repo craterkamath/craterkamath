@@ -28,13 +28,13 @@
 <!--START_SECTION:stats-->
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=craterkamath&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-429%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 195 Contributions in the Year 2022
+> 🏆 196 Contributions in the Year 2022
  > 
 > 📦 70.8 kB Used in GitHub's Storage 
  > 
@@ -73,7 +73,7 @@ Sunday       19 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -90,7 +90,7 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 09/10/2022 18:50:45 UTC
+ Last Updated on 10/10/2022 19:02:46 UTC
 <!--END_SECTION:waka-->
 
 
