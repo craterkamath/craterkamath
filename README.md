@@ -34,7 +34,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 197 Contributions in the Year 2022
+> 🏆 198 Contributions in the Year 2022
  > 
 > 📦 70.8 kB Used in GitHub's Storage 
  > 
@@ -73,7 +73,8 @@ Sunday       19 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 mins              █████████████████████████   100.0%
+Other                    5 mins              ████████████████████████░   95.56% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
 
 ```
 
@@ -90,7 +91,7 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 11/10/2022 18:57:12 UTC
+ Last Updated on 12/10/2022 18:58:38 UTC
 <!--END_SECTION:waka-->
 
 
