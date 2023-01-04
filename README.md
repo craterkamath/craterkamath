@@ -28,13 +28,13 @@
 <!--START_SECTION:stats-->
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=craterkamath&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-429%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2023
+> 🏆 4 Contributions in the Year 2023
  > 
 > 📦 70.8 kB Used in GitHub's Storage 
  > 
@@ -58,11 +58,11 @@
 ```text
 Monday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
 Tuesday      19 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
-Wednesday    15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
+Wednesday    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
 Thursday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
 Friday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
 Saturday     24 commits     █████░░░░░░░░░░░░░░░░░░░░   19.67% 
-Sunday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57%
+Sunday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75%
 
 ```
 
@@ -73,7 +73,7 @@ Sunday       19 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -90,7 +90,7 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 18:37:25 UTC
+ Last Updated on 04/01/2023 18:40:25 UTC
 <!--END_SECTION:waka-->
 
 
