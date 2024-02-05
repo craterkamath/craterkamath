@@ -19,10 +19,6 @@
 
 <img align="right" alt="GIF" height="400px" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" />
 
-### I listen to Music everyday! 🎧
-
-[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=y56d22aaaqsxgwzj9wd3bbq87&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=y56d22aaaqsxgwzj9wd3bbq87&redirect=true)
-
 ---
 
 <!--START_SECTION:stats-->
