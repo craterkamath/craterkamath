@@ -24,8 +24,6 @@
 <!--START_SECTION:stats-->
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=craterkamath&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%204%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-435.4%20thousand%20lines%20of%20code-blue)
@@ -40,36 +38,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-🌆 Daytime                38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-🌃 Evening                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-🌙 Night                  392 commits         ███████████████████░░░░░░   74.67 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Wednesday                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Thursday                 72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Friday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Saturday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Sunday                   85 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -83,7 +51,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 18:57:28 UTC
+ Last Updated on 11/04/2024 18:32:45 UTC
 <!--END_SECTION:waka-->
 
 
