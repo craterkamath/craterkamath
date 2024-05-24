@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="400px" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" />
 
 ---
 
